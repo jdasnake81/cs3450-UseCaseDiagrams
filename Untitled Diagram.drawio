@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T14:40:55.443Z" agent="5.0 (X11)" etag="zn8BqSo_FCfds90NVdPG" version="16.4.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-27T16:47:24.480Z" agent="5.0 (X11)" etag="-Dev_eUKsMh-rEXLjSeV" version="16.4.7" type="github" pages="8">
   <diagram name="User creates a new account" id="DfImJ0czClOGR9f4nIti">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nTVbtUWbXGabkad5to7Q-0" />
         <mxCell id="nTVbtUWbXGabkad5to7Q-1" parent="nTVbtUWbXGabkad5to7Q-0" />
@@ -99,7 +99,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zx_QmFrWZypdLIpAdyQb" name="Customer creates job">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="876" dy="357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rb0o0P_o0mZRAJOYswBw" name="Finished job">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="r1SLeKYqLE4OrUx3cYeM-0" />
         <mxCell id="r1SLeKYqLE4OrUx3cYeM-1" parent="r1SLeKYqLE4OrUx3cYeM-0" />
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8oYuya5dAHQ4YCWlmihi" name="Customer adds funds to their account">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="736" dy="300" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qqahCj7jWmgU7qkS4YWh-0" />
         <mxCell id="qqahCj7jWmgU7qkS4YWh-1" parent="qqahCj7jWmgU7qkS4YWh-0" />
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RiK6NSQo8DbZiF9hNNhN" name="Worker is assigned a job">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Aid0oipIrsuUXhHU7SS--0" />
         <mxCell id="Aid0oipIrsuUXhHU7SS--1" parent="Aid0oipIrsuUXhHU7SS--0" />
@@ -367,7 +367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BN6iT-ebboF4CQ5yKh0n" name="Owner reviews disputes">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="469" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8zw1OMrNLNK2DSZOVz2c-0" />
         <mxCell id="8zw1OMrNLNK2DSZOVz2c-1" parent="8zw1OMrNLNK2DSZOVz2c-0" />
@@ -418,7 +418,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fbOawInE1u3e553wmfTB" name="User edits profile">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="656" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aQYFqh6fumptqjI1-Ziy-0" />
         <mxCell id="aQYFqh6fumptqjI1-Ziy-1" parent="aQYFqh6fumptqjI1-Ziy-0" />
@@ -539,7 +539,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LzEb2FqLRbZM657f3QRa" name="Owner edits job types">
-    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g_n92FaaouxjaNXgnmO0-0" />
         <mxCell id="g_n92FaaouxjaNXgnmO0-1" parent="g_n92FaaouxjaNXgnmO0-0" />
